@@ -8,6 +8,6 @@ https://cdn.jsdelivr.net/gh/zhangph7/cdn/logo.png
 ```
 
 ```js
-https://raw.githubusercontent.com/zhangph7/cdn/master/logo.png
+https://raw.githubusercontent.com/zhangph7/cdn/picture/logo.png
 ```
 
